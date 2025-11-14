@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="pic.png" alt="Banner" width="100%" />
+</div>
+
 # 💫 About Me:
 Hello, my name is Ahmad Fahri Fauzan. I am a student at SMKN 1 Padaherang, majoring in software and game development.<br>I am currently interning at a networking and digital company.<br>I’m looking to collaborate on<br>I'm still a student but I'll graduate soon :3<br>
 
