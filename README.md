@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://e0.pxfuel.com/wallpapers/369/581/desktop-wallpaper-anime-clean-anime.jpg"alt="Banner" width="100%" />
+  <img src="[https://e0.pxfuel.com/wallpapers/369/581/desktop-wallpaper-anime-clean-anime.jpg](https://static.promediateknologi.id/crop/0x0:0x0/x/photo/p1/183/2024/07/14/Kagurabachi-menjadi-fenomena-berkat-sajian-cerita-serta-aksi-yang-ditawarkan-3932724399.jpg)"alt="Banner" width="100%" />
 </div>
 
 # 💫 About Me:
