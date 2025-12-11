@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="![Uploading image.png…]()
-" alt="Banner" width="100%" />
+  <img src="![wp13859570-4k-pc-oled-anime-wallpapers](https://github.com/user-attachments/assets/74912ac5-b31d-483d-a591-78bd0dcd7572)
+"alt="Banner" width="100%" />
 </div>
 
 # 💫 About Me:
