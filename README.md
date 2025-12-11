@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![wp13859570-4k-pc-oled-anime-wallpapers](https://github.com/user-attachments/assets/74912ac5-b31d-483d-a591-78bd0dcd7572)
-"alt="Banner" width="100%" />
+  <img src="https://e0.pxfuel.com/wallpapers/369/581/desktop-wallpaper-anime-clean-anime.jpg"alt="Banner" width="100%" />
 </div>
 
 # 💫 About Me:
