@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://awsimages.detik.net.id/community/media/visual/2023/09/06/breaking-bad-4_169.jpeg?w=620" alt="Banner" width="100%" />
-</div>
-
 # 💫 About Me:
 Hello, my name is Ahmad Fahri Fauzan. I am a student and Junior Web Developer....yes just that :)
 - Game Enthusiast
