@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://twt-thumbs.washtimes.com/media/image/2017/04/25/lalaland-900_c1-0-899-524_s885x516.jpg?1916ee1ebbb5f59c5cdbd968aa26f6d6a32c7c1e"alt="Banner" width="100%" />
+  <img src="https://awsimages.detik.net.id/community/media/visual/2023/09/06/breaking-bad-4_169.jpeg?w=620"alt="Banner" width="100%" />
 </div>
 
 # 💫 About Me:
