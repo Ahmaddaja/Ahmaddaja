@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://awsimages.detik.net.id/community/media/visual/2023/09/06/breaking-bad-4_169.jpeg?w=620"alt="Banner" width="100%" />
+  <img src="https://awsimages.detik.net.id/community/media/visual/2023/09/06/breaking-bad-4_169.jpeg?w=620" alt="Banner" width="100%" />
 </div>
 
 # 💫 About Me:
