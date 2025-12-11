@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://m.gettywallpapers.com/wp-content/uploads/2024/06/Kobo-Kanaeru-Desktop-Wallpaper.jpeg" alt="Banner" width="100%" />
+  <img src="![Uploading image.png…]()
+" alt="Banner" width="100%" />
 </div>
 
 # 💫 About Me:
