@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello, my name is Ahmad Fahri Fauzan. I am a student and Junior Web Developer....yes just that :)
+- PHP Enthusiast
 - Game Enthusiast
 - Web Enthusiast
 
